@@ -1,0 +1,26 @@
+/*ScrollComm CSS.  In Lotus Notes place in Resources, files, style sheets*/
+
+#container ul li{
+	list-style-type: none;
+	border: 3px solid white;
+	margin-left: -40px;
+	margin-top: -10px;
+	margin-bottom: 10px;
+	padding: 5px;
+	width: 235px;
+	border-radius: 15px;
+	background: #dedfe8;
+	height: 60px;
+}
+#container{
+	width: 250px;
+	height: 450px;
+	margin-left: 0px;
+	margin-top: 0px;
+	border: 4px solid #333333;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px Gray;
+	background: #cccccc;
+	padding: 0;
+	font: 12px Arial;
+}
