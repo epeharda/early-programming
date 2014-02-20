@@ -1,0 +1,99 @@
+//Be sure to passThru HTML (under Text)
+<html>
+<head>
+"<script type="text/javascript" src="jQuery.js"></script>"
+"<script type= "text/javascript" src="jquery.vticker.js"></script>" /*in lotus notes this would go in the HTMLheadContent and it should be written in formula language*/
+
+</head>
+<body onload="getCommData()">
+<div id="container"></div>
+
+<script> 
+	function getCommData()
+	{
+		commurl="http://arapahoe/CLICS/CLICS2014A/csl.nsf/CommSchedJSONVw?readviewentries&outputformat=json";		
+		
+		commxmlhttp = new XMLHttpRequest(); 
+		commxmlhttp.onreadystatechange=function(){	
+			
+			if(commxmlhttp.readyState==4 && (commxmlhttp.status==200 || window.location.href.indexOf("http")==-1)) 
+			{
+				//commData=JSON.parse(commxmlhttp.responseText); //caused IE 9 error
+				commData=eval('('+commxmlhttp.responseText+')');
+				commDoc=commData.viewentry;
+				if(commDoc){
+					useCommData();
+				}else{
+					htmlTxt="<ul><li><div><h1>No committee meetings scheduled for today.</h1></div></li></ul>";			
+				} 
+				//var el=document.getElementById('container');
+console.log("alert 30:" + htmlTxt);
+				document.getElementById('container').innerHTML= htmlTxt;
+				//$(el).html(htmlTxt); 
+				//$container.init();
+				//var t=setTimeout("getCommData()",3600000); //reload every hour (60000=1min,3600000=1hour)
+			}			
+		}
+		commxmlhttp.open("GET",commurl,true);
+		commxmlhttp.setRequestHeader("Cache-Control","no-cache");
+		commxmlhttp.send();
+		//document.getElementById('container').innerHTML = htmlTxt;
+	};
+	month = "";
+	htmlTxt=""; 
+	var d = new Date();
+	if((d.getMonth()+1)<10)
+	{
+		month = "0" + (d.getMonth()+1);
+	}
+	else
+		month = (d.getMonth() + 1);
+	today = month + "/" + d.getDate() + "/" + d.getFullYear();
+
+	function useCommData()
+	{
+		htmlTxt="";	
+		console.log("alert 10:" + commData);
+		for(var i=0; i<commDoc.length;i++){		
+			commEntry=commDoc[i].entrydata;			
+			if(commEntry[0]["@columnnumber"]=="0") {	
+				//var txt = commEntry[0].textlist.text[0];
+				var txt="";
+				//find textlist element, then get text element, and then get the value assigned to the zero variable (ie. "0":"02/13/2014~01:30 PM~HCR 0107~House Health, Insurance & Environment~HB14-1126~Dense Breast Tissue Notification~Williams, Buckner^Nicholson~Kristen Forrestal~-~~")	
+				if(commEntry[0].textlist){
+					for(var j=0;j<commEntry[0].textlist.text.length;j++){
+						txt=commEntry[0].textlist.text[j][0]
+						var commString = new Array();
+						commString = txt.split('~');
+						var date = commString[0];
+						var time = commString[1];
+						var commRm =commString[2];
+						var commName =commString[3];
+						var billNum = commString[4];
+						var shortTitle = commString[5];
+						if(txt!="" && date==today){
+							txt="<li>" + time + "  " + commRm + "<br>" + commName + "  " + billNum + "  " + shortTitle + "</li>";
+							htmlTxt+=txt;
+						//console.log("alert 20:" +txt);
+						}
+					}
+				}
+			}
+		}
+		htmlTxt="<ul><h3 align='center'>Committee Meetings for Today</h3><br>"+ htmlTxt + "</ul>";	
+		//document.getElementById('container').innerHTML = htmlTxt;
+	};
+</script>
+<script>
+$(function(){
+	$('#container').vTicker({ 
+		speed: 500,
+		pause: 3000,
+		animation: 'fade',
+		mousePause: false,
+		showItems: 3
+	});
+});
+</script>
+</body>
+</html>
