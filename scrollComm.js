@@ -1,7 +1,7 @@
 	function getCommData()
 	{
-		commurl="http://arapahoe/CLICS/CLICS2014A/csl.nsf/CommSchedJSONVw?readviewentries&outputformat=json";		
-		
+		//commurl="http://arapahoe/CLICS/CLICS2014A/csl.nsf/CommSchedJSONVw?readviewentries&outputformat=json";		
+		/*
 		commxmlhttp = new XMLHttpRequest(); 
 		commxmlhttp.onreadystatechange=function(){	
 			
@@ -26,7 +26,14 @@
 		commxmlhttp.open("GET",commurl,true);
 		commxmlhttp.setRequestHeader("Cache-Control","no-cache");
 		commxmlhttp.send();
-		//document.getElementById('container').innerHTML = htmlTxt;
+		*/
+		$(document).ready(function(){
+			$.getJSON('sampleJSONurlContent.json', function(data){
+				$.each(data, function(i, entry){
+					useCommData();
+				});
+			});
+		});
 	};
 
 	function useCommData()
