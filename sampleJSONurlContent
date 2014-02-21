@@ -1,0 +1,1914 @@
+{
+"@timestamp": "20140221T174057,11Z",
+"@toplevelentries": "201",
+"viewentry": [
+{
+"@position": "1",
+"@unid": "9C2C1F1D58DB017D87257C4400615B44",
+"@noteid": "6EEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A~House Appropriations~HB14-1034~Wine Packaging Permits~Williams^Jahn~Christy Chase~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A"
+},
+{
+"0": "02/28/2014~07:30 AM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Megan Davisson"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T074955,69-07"
+}
+}
+]
+},
+{
+"@position": "2",
+"@unid": "9C2C1F1D58DB017D87257C4400615B44",
+"@noteid": "6EEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A~House Appropriations~HB14-1042~Birth Parent Access To Relinquishment Records~Saine^Tochtrop~Debbie Haskins~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A"
+},
+{
+"0": "02/28/2014~07:30 AM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Megan Davisson"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T074955,69-07"
+}
+}
+]
+},
+{
+"@position": "3",
+"@unid": "9C2C1F1D58DB017D87257C4400615B44",
+"@noteid": "6EEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A~House Appropriations~HB14-1054~Restrict Minors' Access Artificial Tanning Devices~Peniston^Tochtrop~Christy Chase~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A"
+},
+{
+"0": "02/28/2014~07:30 AM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Megan Davisson"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T074955,69-07"
+}
+}
+]
+},
+{
+"@position": "4",
+"@unid": "9C2C1F1D58DB017D87257C4400615B44",
+"@noteid": "6EEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A~House Appropriations~HB14-1100~Motor Vehicle Title Branding~Swalm, Pabon^Grantham~Jery Payne~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A"
+},
+{
+"0": "02/28/2014~07:30 AM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Megan Davisson"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T074955,69-07"
+}
+}
+]
+},
+{
+"@position": "5",
+"@unid": "9C2C1F1D58DB017D87257C4400615B44",
+"@noteid": "6EEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A~House Appropriations~HB14-1101~Community Solar Garden Bus Per Prop Tax Exemption~Tyler^Schwartz~Esther van Mourik~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A"
+},
+{
+"0": "02/28/2014~07:30 AM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Megan Davisson"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T074955,69-07"
+}
+}
+]
+},
+{
+"@position": "6",
+"@unid": "9C2C1F1D58DB017D87257C4400615B44",
+"@noteid": "6EEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A~House Appropriations~HB14-1150~Federal Land Coordination~Rankin^Roberts~Esther van Mourik~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:00 AM~LSB A"
+},
+{
+"0": "02/28/2014~07:30 AM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Megan Davisson"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T074955,69-07"
+}
+}
+]
+},
+{
+"@position": "7",
+"@unid": "83626F87BA8265F287257C55005F1538",
+"@noteid": "7BBA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356~Senate Appropriations~HB14-1050~Increase In Judges In 18th Judicial District~Kagan^Guzman~Jerry Barry~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356"
+},
+{
+"0": "02/28/2014~07:30 AM~SCR 356"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Kevin Neimond"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,70-07"
+}
+}
+]
+},
+{
+"@position": "8",
+"@unid": "83626F87BA8265F287257C55005F1538",
+"@noteid": "7BBA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356~Senate Appropriations~SB14-029~Architectural Paint Stewardship Program~Newell^Fischer~Jennifer Berman~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356"
+},
+{
+"0": "02/28/2014~07:30 AM~SCR 356"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Kevin Neimond"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,70-07"
+}
+}
+]
+},
+{
+"@position": "9",
+"@unid": "83626F87BA8265F287257C55005F1538",
+"@noteid": "7BBA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356~Senate Appropriations~SB14-049~Public Transportation And Utility Endangerment~Heath^Priola~Michael Dohr~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356"
+},
+{
+"0": "02/28/2014~07:30 AM~SCR 356"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Kevin Neimond"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,70-07"
+}
+}
+]
+},
+{
+"@position": "10",
+"@unid": "83626F87BA8265F287257C55005F1538",
+"@noteid": "7BBA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356~Senate Appropriations~SB14-129~Marijuana Criminal Provision Clean Up~Steadman^May~Michael Dohr~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356"
+},
+{
+"0": "02/28/2014~07:30 AM~SCR 356"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Kevin Neimond"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,70-07"
+}
+}
+]
+},
+{
+"@position": "11",
+"@unid": "83626F87BA8265F287257C55005F1538",
+"@noteid": "7BBA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356~Senate Appropriations~SB14-134~Repeal Statutory Water Quality Fee Schedules~Hodge^May, Gerou~Thomas Morris~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Appropriations"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~08:30 AM~SCR 356"
+},
+{
+"0": "02/28/2014~07:30 AM~SCR 356"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Kevin Neimond"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,70-07"
+}
+}
+]
+},
+{
+"@position": "12",
+"@unid": "1D6A932001EFF86587257C55005ED7BA",
+"@noteid": "7BB6",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~Upon Adjournment~JBC~Joint Budget Committee~*JNEG-9G9N6Z~-~-~-~Meet as Necessary~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Joint Budget Committee"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/24/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/25/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/26/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/26/2014~01:30 PM~JBC"
+},
+{
+"0": "02/27/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/27/2014~01:30 PM~JBC"
+},
+{
+"0": "02/28/2014~Upon Adjournment~JBC"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "John Ziegler"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,24-07"
+}
+}
+]
+},
+{
+"@position": "13",
+"@unid": "F1F22B1F50A6923E87257C38006E0137",
+"@noteid": "6B4E",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0107~House Agriculture, Livestock, & Natural Resources~HB14-1270~Sunset Pet Animal Care Facilities~Lebsock^Tochtrop~Duane Gall~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Agriculture, Livestock, & Natural Resources"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"text": {
+"0": "02/24/2014~01:30 PM~HCR 0107"
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Brooke Maddaford"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,10-07"
+}
+}
+]
+},
+{
+"@position": "14",
+"@unid": "F1F22B1F50A6923E87257C38006E0137",
+"@noteid": "6B4E",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0107~House Agriculture, Livestock, & Natural Resources~SB14-076~New Limited-impact Mining Permit Category~Tochtrop^Becker~Thomas Morris~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Agriculture, Livestock, & Natural Resources"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"text": {
+"0": "02/24/2014~01:30 PM~HCR 0107"
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Brooke Maddaford"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,10-07"
+}
+}
+]
+},
+{
+"@position": "15",
+"@unid": "8D0F65E5B199890287257C38005DFE41",
+"@noteid": "6B2E",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0112~House Education~HB14-1131~Cyber Bullying~Fields^Newell, Kefalas~Michael Dohr~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Education"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "02/26/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/03/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "03/05/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/10/2014~01:30 PM~SupCt"
+},
+{
+"0": "03/19/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/17/2014~01:30 PM~HCR 0112"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Lisa Gezelter"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T101924,35-07"
+}
+}
+]
+},
+{
+"@position": "16",
+"@unid": "8D0F65E5B199890287257C38005DFE41",
+"@noteid": "6B2E",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0112~House Education~HB14-1204~Flexibility For Rural School Districts~Wilson^(None)~Julie Pelegrin~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Education"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "02/26/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/03/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "03/05/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/10/2014~01:30 PM~SupCt"
+},
+{
+"0": "03/19/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/17/2014~01:30 PM~HCR 0112"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Lisa Gezelter"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T101924,35-07"
+}
+}
+]
+},
+{
+"@position": "17",
+"@unid": "8D0F65E5B199890287257C38005DFE41",
+"@noteid": "6B2E",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0112~House Education~HB14-1262~Highly Effective Teachers & Low-performing Schools~Priola^Newell~Julie Pelegrin~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Education"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "02/26/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/03/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "03/05/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/10/2014~01:30 PM~SupCt"
+},
+{
+"0": "03/19/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "03/17/2014~01:30 PM~HCR 0112"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Lisa Gezelter"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T101924,35-07"
+}
+}
+]
+},
+{
+"@position": "18",
+"@unid": "508CA08F53315F0087257C5900642FF5",
+"@noteid": "7ECA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~LSB A~House State, Veterans, and Military Affairs~HB14-1141~Confidentiality Social Security Numbers~Coram^(None)~Bart Miller~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "State, Veterans, and Military Affairs"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~LSB A"
+},
+{
+"0": "02/26/2014~Upon Adjournment~LSB A"
+},
+{
+"0": "03/03/2014~01:30 PM~SupCt"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Jessika Shipley"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,57-07"
+}
+}
+]
+},
+{
+"@position": "19",
+"@unid": "508CA08F53315F0087257C5900642FF5",
+"@noteid": "7ECA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~LSB A~House State, Veterans, and Military Affairs~HB14-1197~Governor's Authority To Grant Reprieve~Szabo^(None)~Michael Dohr~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "State, Veterans, and Military Affairs"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~LSB A"
+},
+{
+"0": "02/26/2014~Upon Adjournment~LSB A"
+},
+{
+"0": "03/03/2014~01:30 PM~SupCt"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Jessika Shipley"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,57-07"
+}
+}
+]
+},
+{
+"@position": "20",
+"@unid": "508CA08F53315F0087257C5900642FF5",
+"@noteid": "7ECA",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~LSB A~House State, Veterans, and Military Affairs~HB14-1198~Military & Family Professional Licensing~Everett^Grantham~Jery Payne~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "State, Veterans, and Military Affairs"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~01:30 PM~LSB A"
+},
+{
+"0": "02/26/2014~Upon Adjournment~LSB A"
+},
+{
+"0": "03/03/2014~01:30 PM~SupCt"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Jessika Shipley"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,57-07"
+}
+}
+]
+},
+{
+"@position": "21",
+"@unid": "4903FFACB143191087257C38005E1995",
+"@noteid": "6B32",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"text": {
+"0": "02/24/2014~01:30 PM~SCR 354~Senate Business, Labor & Technology~~~~~(FOR ACTION ONLY)~~"
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Business, Labor & Technology"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"text": {
+"0": "02/24/2014~01:30 PM~SCR 354"
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Jeanette Chapman"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,76-07"
+}
+}
+]
+},
+{
+"@position": "22",
+"@unid": "7E5C6453F343BC8A87257C5C0062CB80",
+"@noteid": "8D16",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"text": {
+"0": "02/24/2014~01:30 PM~SCR 356~Senate State, Veterans, & Military Affairs~SB14-141~Suspend Until 2016 House Bill 13-1303 Provisions~Grantham, Lundberg^Szabo, Murray~Kate Meyer~-~~"
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "State, Veterans, & Military Affairs"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"text": {
+"0": "02/24/2014~01:30 PM~SCR 356"
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Julia Jackson"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040059,04-07"
+}
+}
+]
+},
+{
+"@position": "23",
+"@unid": "1D6A932001EFF86587257C55005ED7BA",
+"@noteid": "7BB6",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/24/2014~Upon Adjournment~JBC~Joint Budget Committee~*JNEG-9GGN7P~-~-~-~Meet as Necessary ~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Joint Budget Committee"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/21/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/24/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/25/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/26/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/26/2014~01:30 PM~JBC"
+},
+{
+"0": "02/27/2014~Upon Adjournment~JBC"
+},
+{
+"0": "02/27/2014~01:30 PM~JBC"
+},
+{
+"0": "02/28/2014~Upon Adjournment~JBC"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "John Ziegler"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040058,24-07"
+}
+}
+]
+},
+{
+"@position": "24",
+"@unid": "0C46A97465B272F287257C40005B6639",
+"@noteid": "6DEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0107~House Public Health Care & Human Services~HB14-1192~Repeal Health Benefit Exchange~Joshi^Lundberg~Kristen Forrestal~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Public Health Care & Human Services"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0107"
+},
+{
+"0": "03/11/2014~01:30 PM~HCR 0107"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Elizabeth Burger"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,52-07"
+}
+}
+]
+},
+{
+"@position": "25",
+"@unid": "0C46A97465B272F287257C40005B6639",
+"@noteid": "6DEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0107~House Public Health Care & Human Services~HB14-1276~Grant Program To Train High School Students In CPR~Primavera^Hodge~Brita Darling~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Public Health Care & Human Services"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0107"
+},
+{
+"0": "03/11/2014~01:30 PM~HCR 0107"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Elizabeth Burger"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,52-07"
+}
+}
+]
+},
+{
+"@position": "26",
+"@unid": "0C46A97465B272F287257C40005B6639",
+"@noteid": "6DEE",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0107~House Public Health Care & Human Services~SB14-109~Use Of Prevention Early Detection & Treatment Fund~Steadman^May~Jason Gelender~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Public Health Care & Human Services"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0107"
+},
+{
+"0": "03/11/2014~01:30 PM~HCR 0107"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Elizabeth Burger"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,52-07"
+}
+}
+]
+},
+{
+"@position": "27",
+"@unid": "5094CD212CEB776B87257BF70069879A",
+"@noteid": "4322",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0112~House Judiciary~HB14-1061~Eliminate Prison For Inability To Pay Fines~Salazar^Guzman~Jerry Barry~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Judiciary"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "02/25/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "02/27/2014~01:30 PM~HCR 0112"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Bo Pogue"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,38-07"
+}
+}
+]
+},
+{
+"@position": "28",
+"@unid": "5094CD212CEB776B87257BF70069879A",
+"@noteid": "4322",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~HCR 0112~House Judiciary~HB14-1171~Medical Evidence In Sexual Assault Cases Rules~McNulty^Roberts~Jerry Barry~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Judiciary"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~Upon Adjournment~HCR 0112"
+},
+{
+"0": "02/25/2014~01:30 PM~HCR 0112"
+},
+{
+"0": "02/27/2014~01:30 PM~HCR 0112"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Bo Pogue"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T040057,38-07"
+}
+}
+]
+},
+{
+"@position": "29",
+"@unid": "98BC6C54EE9861D587257C5B0052207D",
+"@noteid": "8A52",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~LSB A~House Business, Labor, Economic, & Workforce Development~HB14-1075~Deferral Unemployment Insurance Benefits~Melton^(None)~Bart Miller~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Business, Labor, Economic, & Workforce Development"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~LSB A"
+},
+{
+"0": "02/27/2014~01:30 PM~LSB A"
+},
+{
+"0": "03/04/2014~01:30 PM~LSB A"
+},
+{
+"0": "03/06/2014~01:30 PM~LSB A"
+},
+{
+"0": "03/11/2014~01:30 PM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Erin Vanderberg"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T095103,14-07"
+}
+}
+]
+},
+{
+"@position": "30",
+"@unid": "98BC6C54EE9861D587257C5B0052207D",
+"@noteid": "8A52",
+"@siblings": "201",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "CommBillsCalInfo",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~LSB A~House Business, Labor, Economic, & Workforce Development~HB14-1272~Certification Of Home Inspectors~Labuda^(None)~Jennifer Berman~-~~"
+}
+]
+}
+},
+{
+"@columnnumber": "1",
+"@name": "CommBills11",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "Comm",
+"text": {
+"0": "Business, Labor, Economic, & Workforce Development"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "AllCommDates",
+"textlist": {
+"text": [
+{
+"0": "02/25/2014~01:30 PM~LSB A"
+},
+{
+"0": "02/27/2014~01:30 PM~LSB A"
+},
+{
+"0": "03/04/2014~01:30 PM~LSB A"
+},
+{
+"0": "03/06/2014~01:30 PM~LSB A"
+},
+{
+"0": "03/11/2014~01:30 PM~LSB A"
+}
+]
+}
+},
+{
+"@columnnumber": "4",
+"@name": "CommStaff",
+"text": {
+"0": "Erin Vanderberg"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "CommBillsUpdatedOn",
+"datetime": {
+"0": "20140221T095103,14-07"
+}
+}
+]
+}
+]
+}
