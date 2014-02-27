@@ -1,46 +1,49 @@
 /*ScrollComm CSS.  In Lotus Notes place in Resources, files, style sheets*/
 
-#container li{
+#container1 li, #container2 li{
 	/*list-style-type: none;*/
 	/*border: 3px solid white;*/
 	margin-left: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	padding: 5px;
-	width: 380px; /*was 235*/
+	padding: 0px;
+	width: 100%; /*was 235*/
 	/*border-radius: 15px;
 	background: #dedfe8;
 	height: auto;*/
 	font-weight: bold;	
 }
-
-#container ul{
+#container1 ul, #container2 ul{
 		list-style-type: none;
-		margin-left: -40px;
+		margin-left: 0px;
+		padding: 0px;
 		text-shadow: 0.5px 0.5px LightGray;
 
-	}
-#container{
-	width: 400px; /*was 250*/
-	height: 410px;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 5px;
-	border: 4px solid #333333;
-	border-radius: 15px;
-	box-shadow: 5px 5px 5px Gray;
-	/*background: #cccccc;*/
-	background: #00CED1;
-	padding: 5px;
-	font: 12px Arial;
-	background-image: linear-gradient(rgba(0,0,0,.25), rgba(0,0,0,0));
-	box-shadow: inset 0 0 0 7px rgba(255,255,255,.5);
-	box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.4);
 }
 
-.alignleft{
-	float: left;
-	}
-.alignright{
-	float: right;
-	}
+#container1, #container2 {
+	width: 93%; /*was 250*/
+	height: 250px; /*was 350*/
+	margin-left: 8px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	border: 2px solid #333333;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px Gray;
+	/*background: #cccccc;*/
+	/*background: #FFFFCC;/*light yellow */
+	/*background: #FEE0C6; /*light red*/
+	/*background: #FFFF99;/*light yellow*/
+	background: lightSteelBlue; /*lightSteelBlue*/
+	padding: 5px;
+	font: 12px Arial;
+	/*background-image: linear-gradient(rgba(0,0,0,.25), rgba(0,0,0,0));*/
+	/*box-shadow: inset 0 0 0 7px rgba(255,255,255,.5);
+	box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.4);*/
+	position: relative;
+}
+#container1 li:hover, #container2 li:hover{
+	background-color:LightGray;
+	box-shadow: 4px 4px 4px Gray;
+	font-style: italic;
+}
